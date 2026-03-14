@@ -8,3 +8,5 @@ The course was tested on local PC with Jupyter Notebook. It seems to me it could
 [Week 1. Neural networks and PyTorch basis](https://github.com/ArtyomR/CV-PytTorch-Self-Study-Course/tree/main/CV%20%2B%20PyTorch.%201W.%20Neural%20networks%2BPyTorch)
 
 [Week 2. Computer Vision + OpenCV](https://github.com/ArtyomR/CV-PytTorch-Self-Study-Course/tree/main/CV%20%2B%20PyTorch.%202W.%20Computer%20Vision%20%2B%20OpenCV)
+
+[Week 3. CNN and Deep Learning](https://github.com/ArtyomR/CV-PytTorch-Self-Study-Course/tree/main/CV%20%2B%20Pytorch.%203W.%20CNN%20and%20Deep%20Learning)
